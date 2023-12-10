@@ -1,0 +1,94 @@
+[33mcommit 6eb20aeb9003b9511b5bc72f8f763c8d0ef97f4f[m[33m ([m[1;36mHEAD -> [m[1;32mfeature-Read_me[m[33m)[m
+Author: ciuradamian <damianciura@hotmail.com>
+Date:   Tue May 24 19:49:15 2022 +0200
+
+    Dokumentacja oraz drobne poprawki
+
+[1mdiff --git a/10.csv b/10.csv[m
+[1mindex bbcb21a..9e383a4 100644[m
+[1m--- a/10.csv[m
+[1m+++ b/10.csv[m
+[36m@@ -1,7 +1,7 @@[m
+ ﻿ID;QUESTION;ANSWER1;ANSWER2;ANSWER3;ANSWER4;CORRECT_ANSWER[m
+ 1;Wynik którego działania to apokaliptyczna liczba Bestii?;111+222;2x333;666-444 ;33!;2[m
+ 2;Chopper to przerobiony:;stary przebój;motocykl;skórzany płaszcz ;moszcz z owoców;2[m
+[31m-3;"Jakiego koloru skórę ma większość bohaterów serii kreskówek ""Simpsonowie""? ";żółtego;szarego;niebieskiego;różowego ;1[m
+[32m+[m[32m3;Jakiego koloru skórę ma większość bohaterów serii kreskówek "Simpsonowie"?;żółtego;szarego;niebieskiego;różowego ;1[m
+ 4;Na fladze którego kraju widnieje przyprawa do pasztetu?;Hiszpanii;Grenady;Chin;Szwecji ;2[m
+ 5;Na klawiaturze QWERTY dioda zapali się, gdy naciśniemy:;backspace;delete;alt;caps lock;4[m
+ 6;Co zawierała puszka Pandory?;choroby i strapienia;byczki w pomidorach;obole od Charona;kolorowe koraliki;1[m
+[1mdiff --git a/11.csv b/11.csv[m
+[1mindex 3666189..86ede81 100644[m
+[1m--- a/11.csv[m
+[1m+++ b/11.csv[m
+[36m@@ -1,11 +1,11 @@[m
+ ﻿ID;QUESTION;ANSWER1;ANSWER2;ANSWER3;ANSWER4;CORRECT_ANSWER[m
+ 1;Trunek dobry na frasunek najprędzej znajdziemy:;w bidonie;w menażce;w probówce;w piersiówce;4[m
+[31m-2; Z czego zrobiona jest płyta OSB?; z wiórów drzewnych;z tłucznia ceramicznego;z gruzu budowlanego ;z polichlorku winylu;1[m
+[32m+[m[32m2;Z czego zrobiona jest płyta OSB?; z wiórów drzewnych;z tłucznia ceramicznego;z gruzu budowlanego ;z polichlorku winylu;1[m
+ 3;Która koperta bywa z kruszcu?;zegarka ;kołdry;listu;z łapówki;1[m
+ 4;Ulubiony kolor fanów egzystencjalizmu i egzystencjalistów to:;czarny;biały;zielony;czerwony ;1[m
+ 5;Jakie kwiaty zwykle zachwaszczają pola pszenicy?;konwalie;chabry;tulipany;nasturcje;2[m
+ 6;Za iloma górami i za iloma lasami zaczyna się bajka?;za trzema;za pięcioma;za siedmioma;za dziewięcioma;3[m
+ 7;Ile aktów ma aktówka?;żadnego;dwa;cztery;sześć;1[m
+ 8;Które narzędzie to grzebień osadzony na stylisku?;siekiera;graca;grabie;łopata;3[m
+[31m-9; Nazwa technologii bezprzewodowej komunikacji krótkiego zasięgu pomiędzy różnymi urządzeniami elektronicznymi nawiązuje:;do Sinobrodego;do Haralda Sinozębego;do Raya Blue;do płetwala błękitnego;2[m
+[32m+[m[32m9;Nazwa technologii bezprzewodowej komunikacji krótkiego zasięgu pomiędzy różnymi urządzeniami elektronicznymi nawiązuje:;do Sinobrodego;do Haralda Sinozębego;do Raya Blue;do płetwala błękitnego;2[m
+ 10;Bawole serca lub malinowe. Co z nich będzie?; szarlotka;kartoflak;dżem śliwkowy;zupa pomidorowa;4[m
+[1mdiff --git a/12.csv b/12.csv[m
+[1mindex 0e9e541..28e2ebd 100644[m
+[1m--- a/12.csv[m
+[1m+++ b/12.csv[m
+[36m@@ -5,7 +5,7 @@[m
+ 4;Obiektem astronomicznym jest:;biały lej;czerwona czeluść;niebieska wyrwa;czarna dziura;4[m
+ 5;Które z państw ma tylko jedną stałą rzekę?;Egipt;Austria;Portugalia;Turcja;1[m
+ 6;Niejadowity wąż.;boa;kobra;mamba;grzechotnik;1[m
+[31m-7;W którym serialu w pierwszym odcinku na brzegu jeziora znaleziono ciało Laury Palmer?;"w ""Miasteczku Twin Peaks""";"w ""Fargo""";"w ""The Bridge: Na granicy""";"w ""Crime Story""";1[m
+[31m-8; Kto był ministrem spraw wewnętrznych w rządzie Jana Olszewskiego? ;Krzysztof Kozłowski;Antoni Macierewicz;Andrzej Milczanowski;Zbigniew Siemiątkowski;2[m
+[32m+[m[32m7;W którym serialu w pierwszym odcinku na brzegu jeziora znaleziono ciało Laury Palmer?;w "Miasteczku Twin Peaks";w "Fargo";w "The Bridge: Na granicy";w "Crime Story";1[m
+[32m+[m[32m8;Kto był ministrem spraw wewnętrznych w rządzie Jana Olszewskiego? ;Krzysztof Kozłowski;Antoni Macierewicz;Andrzej Milczanowski;Zbigniew Siemiątkowski;2[m
+ 9;Który z kompozytorów tworzył przede wszystkim operetki?;Jan Sebastian Bach;Wilhelm Friedemann Bach;Carl Philipp Emanuel Bach;Jacques Offenbach;4[m
+ 10;Ojczystym językiem rodowitego brneńczyka jest:;francuski;czeski;niemiecki;włoski;2[m
+[1mdiff --git a/13.csv b/13.csv[m
+[1mindex 7f3add6..ba89649 100644[m
+[1m--- a/13.csv[m
+[1m+++ b/13.csv[m
+[36m@@ -1,9 +1,9 @@[m
+ ﻿ID;QUESTION;ANSWER1;ANSWER2;ANSWER3;ANSWER4;CORRECT_ANSWER[m
+ 1;Któremu zjawisku optycznemu nazwy użyczyła wróżka Morgana le Fay z legendy o królu Arturze?;zorzy polarnej;tęczy;halo;mirażowi;4[m
+[31m-2;"Kto założył firmę portretową i napisał: ""Nie jest to przyjemność duża cały dzień malować stróża i za taki marny zysk zgłębiać taki głupi pysk""?";Jan Matejko;Stanisław Wyspiański;Wit Stwosz;Witkacy;4[m
+[32m+[m[32m2;Kto założył firmę portretową i napisał: "Nie jest to przyjemność duża cały dzień malować stróża i za taki marny zysk zgłębiać taki głupi pysk"?;Jan Matejko;Stanisław Wyspiański;Wit Stwosz;Witkacy;4[m
+ 3;Z czego w głównej mierze zrobione są tak zwane monety bulionowe?;z pasty rosołowej;ze zrolowanego mięsa;z miedzi;ze złota;4[m
+[31m-4;"Do którego Szekspirowskiego utworu Mendelssohn-Bartholdy skomponował słynny ""Marsz weselny""?";"do ""Romea i Julii""";"do ""Hamleta""";"do ""Snu nocy letniej""";"do ""Poskromienia złośnicy""";3[m
+[31m-5;Które z miast przez sto lat było własnością rodziny Czartoryskich i jako centrum życia kulturalnego zyskało nazwę Polskie Ateny?;Włocławek; Puławy;Toruń;Bydgoszcz;2[m
+[32m+[m[32m4;Do którego Szekspirowskiego utworu Mendelssohn-Bartholdy skomponował słynny "Marsz weselny"?;do "Romea i Julii";do "Hamleta";do "Snu nocy letniej";"do "Poskromienia złośnicy";3[m
+[32m+[m[32m5;Które z miast przez sto lat było własnością rodziny Czartoryskich i jako centrum życia kulturalnego zyskało nazwę Polskie Ateny?;Włocławek;Puławy;Toruń;Bydgoszcz;2[m
+ 6;Z czym nie rozstaje się pan Józio, hodowca drobiu z Chociul?;z żółtym golfem ;z rękawiczkami na sznurku;z czerwonym fezem;z paskiem w koguty;1[m
+ 7;Może być i rzeczownikiem, i czasownikiem.;bomba;lufa;gała;pała;4[m
+ 8;Co wywołuje kiłę?;pałeczka;laseczka;prątek;krętek;4[m
+[1mdiff --git a/15.csv b/15.csv[m
+[1mindex 48a00d3..13703ef 100644[m
+[1m--- a/15.csv[m
+[1m+++ b/15.csv[m
+[36m@@ -3,7 +3,7 @@[m
+ 2;Z gry na jakim instrumencie słynie Czesław Mozil?;na kornecie;na akordeonie;na djembe;na ksylofonie;2[m
+ 3;Ile to jest 1111 razy 1111, jeśli 1 razy 1 to 1, a 11 razy 11 to 121?;12321;1 234 321;111 111 111;123 434 321;2[m
+ 4;Kto jest mistrzem tego samego oręża, w jakim specjalizowała się mitologiczna Artemida?;Zorro;Legolas;Don Kichot;Longinus Podbipięta;2[m
+[31m-5;"Komiksowym ""dzieckiem"" rysownika Boba Kane'a jest:";Superman;Batman;Spider-Man;Captain America;2[m
+[32m+[m[32m5;Komiksowym "dzieckiem" rysownika Boba Kane'a jest:;Superman;Batman;Spider-Man;Captain America;2[m
+ 6;Skąd pochodził Conan Barbarzyńca?;z Rivii;z Oz;z Mordoru;z Cimmerii;4[m
+ 7;Co według Leszka Kołakowskiego jest sklepieniem domu, w którym duch ludzki mieszka?;Rozum;Bóg;Miłość;Czas;4[m
+ 8;Odrażający drab z Kabaretu Starszych Panów dubeltówkę weźmie, wyjdzie i...:;rach-ciach!;buch, buch!;z rur dwóch;bum w brzuch;2[m
+[1mdiff --git a/3.csv b/3.csv[m
+[1mindex a18e7d8..8717c94 100644[m
+[1m--- a/3.csv[m
+[1m+++ b/3.csv[m
+[36m@@ -1,7 +1,7 @@[m
+ ﻿ID;QUESTION;ANSWER1;ANSWER2;ANSWER3;ANSWER4;CORRECT_ANSWER[m
+ 1;Skrzelami oddychają:;Gady;Ptaki;Ssaki;Ryby;4[m
+ 2;Jak nazywa się owoc dębu?;Szyszka;Grono;Żołądź;Strąk;3[m
+[31m-3;W jakim kraju znajduje się najwięklsza część puszczy tropikalnej?;W Wenezueli;W Brazylii;W Meksyku;W Indonezji;2[m
+[32m+[m[32m3;W jakim kraju znajduje się największa część puszczy tropikalnej?;W Wenezueli;W Brazylii;W Meksyku;W Indonezji;2[m
+ 4;Specjalista w danej dziedzinie, rzeczoznawca to:;Biegły;Kroczący;Pieszy;Śmigły;1[m
+ 5;Ile potraw tradycyjnie powinno znajdować się na wyigilinym stole?;Czternaście;Dziesięć;Dwanaście;Piętnaście;3[m
+ 6;K
